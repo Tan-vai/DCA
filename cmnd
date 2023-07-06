@@ -1,0 +1,4 @@
+rm - rf DCA
+ git clone https://github.com/Tan-vai/DCA
+ cd DCA
+python DCA
