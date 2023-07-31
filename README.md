@@ -2,6 +2,7 @@
 
 # setup
 
+rm -rf DCA
 pip install requests
 pip install futures
 pip install rich
